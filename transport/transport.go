@@ -13,6 +13,5 @@ func Print(value string) {
 	key := fmt.Sprintf("%s:%s", u.String(), value)
 	log.Println(key)
 
-	log.Println(time.Now().String())
-	log.Println(time.Now())
+	log.Println(time.Now().Format(time.RFC3339))
 }
