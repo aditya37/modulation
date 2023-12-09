@@ -8,3 +8,4 @@ github.com/aditya37/modulation/transport/v3 v3.0.0-20231209154429-7edc6c713333 h
 github.com/aditya37/modulation/transport/v3 v3.0.0-20231209154429-7edc6c713333/go.mod h1:Gg+5eoIQfa+qr6peuF2Js7pxITlPTdL+g4IA9HzGcmA=
 github.com/google/uuid v1.4.0 h1:MtMxsa51/r9yyhkyLsVeVt0B+BGQZzpQiTQ4eHZ8bc4=
 github.com/google/uuid v1.4.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+
