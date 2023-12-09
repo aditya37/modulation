@@ -1,0 +1,8 @@
+github.com/aditya37/modulation/transport v0.0.0-20231209144927-197478eb44e3 h1:EGqqvHZAuApa/ftBrmTCnQGp2bCQQjrWw7H32eE4rhE=
+github.com/aditya37/modulation/transport v0.0.0-20231209144927-197478eb44e3/go.mod h1:QHm4FhBnV2kbtVBZOFi38BojhAOOg/P8xv2RmPo5v24=
+github.com/aditya37/modulation/transport/v2 v2.0.0-20231209124740-15014dbf961b h1:TyMkCJammse2t6t1Wsl4eEIjtKNXV8oI2lw+acXJtAg=
+github.com/aditya37/modulation/transport/v2 v2.0.0-20231209124740-15014dbf961b/go.mod h1:gUdsOA2eYoJqkvKGqj8ZsL6YrbzKv+onX5WVngXqhbo=
+github.com/google/uuid v1.4.0 h1:MtMxsa51/r9yyhkyLsVeVt0B+BGQZzpQiTQ4eHZ8bc4=
+github.com/google/uuid v1.4.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+modernc.org/libc v1.37.0 h1:WerjebcsP6A7Jy+f2lCnHAkiSTLf7IaSftBYUtoswak=
+modernc.org/libc v1.37.0/go.mod h1:YAXkAZ8ktnkCKaN9sw/UDeUVkGYJ/YquGO4FTi5nmHE=
