@@ -4,5 +4,7 @@ github.com/aditya37/modulation/transport/v2 v2.0.0-20231209124740-15014dbf961b h
 github.com/aditya37/modulation/transport/v2 v2.0.0-20231209124740-15014dbf961b/go.mod h1:gUdsOA2eYoJqkvKGqj8ZsL6YrbzKv+onX5WVngXqhbo=
 github.com/aditya37/modulation/transport/v3 v3.0.0-20231209152407-2ccba72522b2 h1:HcuMbL2grSp2+Gc2u5feVslBSQgK4em7K+QMgdeX+DM=
 github.com/aditya37/modulation/transport/v3 v3.0.0-20231209152407-2ccba72522b2/go.mod h1:Gg+5eoIQfa+qr6peuF2Js7pxITlPTdL+g4IA9HzGcmA=
+github.com/aditya37/modulation/transport/v3 v3.0.0-20231209154429-7edc6c713333 h1:3rm3Eyq6EW7Z9X7S57W1JFuwjO6GhDCxslNWfBcbrgE=
+github.com/aditya37/modulation/transport/v3 v3.0.0-20231209154429-7edc6c713333/go.mod h1:Gg+5eoIQfa+qr6peuF2Js7pxITlPTdL+g4IA9HzGcmA=
 github.com/google/uuid v1.4.0 h1:MtMxsa51/r9yyhkyLsVeVt0B+BGQZzpQiTQ4eHZ8bc4=
 github.com/google/uuid v1.4.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
