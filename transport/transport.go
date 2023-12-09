@@ -12,5 +12,5 @@ func Print(value string) {
 	key := fmt.Sprintf("%s:%s", u.String(), value)
 	log.Println(key)
 	log.Println(key)
-
+	log.Println(key)
 }

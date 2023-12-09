@@ -1,4 +1,4 @@
-module github.com/aditya37/modulation/transport/v3
+module github.com/aditya37/modulation/transport/v3.0.1
 
 go 1.21.4
 
